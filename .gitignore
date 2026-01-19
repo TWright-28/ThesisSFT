@@ -2,3 +2,8 @@ bug_classifier_env/
 *.dll
 *.lib
 *.pyd
+.env
+outputs/
+models/
+unsloth_compiled_cache/
+venv/
